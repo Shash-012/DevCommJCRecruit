@@ -14,7 +14,7 @@ It allows users to:
 Deployed on **Streamlit Community Cloud** — ready to use from any browser.
 
 ## 🚀 Live App
-👉 [Open QuerryBuddy Chatbox](https://querrybuddychatbox.streamlit.app/)
+👉 Note: Since streamlit clouds cannot run ollama models, the app is not deployable
 
 ## ✨ Features
 
@@ -26,7 +26,6 @@ Deployed on **Streamlit Community Cloud** — ready to use from any browser.
 
 - ✅ Real-time Response Streaming
 
-- ✅ Deployed on Streamlit Cloud — No Installation Required
 
 ## 🛠️ Built With
 
@@ -38,16 +37,7 @@ Deployed on **Streamlit Community Cloud** — ready to use from any browser.
 
 ## 📥 How to Use
 
-### Online (Recommended)
-1. Open the [Live App Link](https://querrybuddychatbox.streamlit.app/)
-
-2. Type your query in the chat input
-
-3. (Optional) Upload an image before submitting your prompt
-
-4. Get instant AI responses
-
-### Run Locally
+## Run Locally
 1️⃣ Clone this repository
 
 ```bash
