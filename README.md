@@ -15,4 +15,5 @@ streamlit run app.py
 ## Important Submission Links
 - Jupyter Notebooks and Markdowns - https://github.com/Shash-012/DevCommJCRecruit
 - Streamlit app - https://querrybuddychatbox.streamlit.app/
-- 
+- App repo - https://github.com/Shash-012/OllamaChatApp
+
