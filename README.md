@@ -12,3 +12,7 @@ The Jupyter notebook, app.py file, and the markdown of the task has been uploade
 ```bash
 streamlit run app.py
 ```
+## Important Submission Links
+- Jupyter Notebooks and Markdowns - https://github.com/Shash-012/DevCommJCRecruit
+- Streamlit app - https://querrybuddychatbox.streamlit.app/
+- 
