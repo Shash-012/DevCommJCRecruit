@@ -6,9 +6,9 @@ The Jupyter Notebook for the code along with the comments has been uploaded
 
 ## Task 2
 The Jupyter notebook, app.py file, and the markdown of the task has been uploaded
--don't run the code kernel by kernel
--don't execute app.py using the run button
--on terminal, type:
+- don't run the code kernel by kernel
+- don't execute app.py using the run button
+- on terminal, type:
 ```bash
 streamlit run app.py
 ```
